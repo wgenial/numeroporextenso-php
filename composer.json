@@ -1,0 +1,27 @@
+{
+  "name": "wgenial/numeroporextenso",
+  "description": "Converte númeral em valor por extenso.",
+  "keywords": ["numero", "extenso", "real", "brasil", "moeda"],
+  "type": "package",
+  "require": {
+    "php": ">=5.6"
+  },
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/wgenial/numeroporextenso/issues",
+    "source": "https://github.com/wgenial/numeroporextenso"
+  },
+  "authors": [
+    {
+      "name": "Giovani Generali",
+      "email": "giovani.generali@gmail.com",
+      "homepage": "http://www.wgenial.com.br"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "WGenial\\NumeroPorExtenso\\": "src/"
+    }
+  }
+}
