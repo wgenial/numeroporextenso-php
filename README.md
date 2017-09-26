@@ -52,7 +52,7 @@ O numeral deve ser maior que zero.
 
 ## Contribuição:
 
-Eu sei que tem muita coisa para melhor, principalmente o tratamento de milhão, milhões, etc.. se tiver interesse pode fazer um clone do projeto, aplicar as melhoras e enviar um pull request. Eu agradeço \o/
+Eu sei que tem muita coisa para melhorar, principalmente o tratamento de `milhão`, `milhões`, etc.. se tiver interesse pode fazer um `clone` do projeto, aplicar as melhoras e enviar um `pull request`. Eu agradeço \o/
 
 ## Afinal, o que é um número por extenso?
 > "Um número por extenso é a forma como um número qualquer é representado em determinada língua sem a utilização de algarismos, através de palavras ou combinação de palavras que representam os números, como por exemplo" [Wikipédia](https://pt.wikipedia.org/wiki/Número_por_extenso)
