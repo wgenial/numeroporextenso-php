@@ -6,6 +6,12 @@ Converte numeral em valor por extenso.
 
 ### Como usar:
 
+https://packagist.org/packages/wgenial/numeroporextenso
+
+```bash
+composer require wgenial/numeroporextenso
+```
+
 ```php
 include __DIR__.'/vendor/autoload.php';
 
