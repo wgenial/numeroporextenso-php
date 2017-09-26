@@ -1,6 +1,6 @@
 {
   "name": "wgenial/numeroporextenso",
-  "description": "Converte númeral em valor por extenso.",
+  "description": "Converte numeral em valor por extenso.",
   "keywords": ["numero", "extenso", "real", "brasil", "moeda"],
   "type": "package",
   "require": {
