@@ -1,8 +1,5 @@
-<?
-  
-  date_default_timezone_set('America/Sao_Paulo');
-
-  include __DIR__.'/vendor/autoload.php';
+<?php
+  include __DIR__.'/../vendor/autoload.php';
 
   use WGenial\NumeroPorExtenso\NumeroPorExtenso;
 
@@ -33,4 +30,17 @@
   $extenso_n5 = $extenso->converter($n5);
   echo $extenso_n5 ."\n\n";
 
-?>
+  $n5 = 0.21;
+  echo $n5 ."\n";
+  $extenso_n5 = $extenso->converter($n5);
+  echo $extenso_n5 ."\n\n";
+
+  $n5 = 0.04;
+  echo $n5 ."\n";
+  $extenso_n5 = $extenso->converter($n5);
+  echo $extenso_n5 ."\n\n";
+
+  $n5 = 0.006;
+  echo $n5 ."\n";
+  $extenso_n5 = $extenso->converter($n5);
+  echo $extenso_n5 ."\n\n";
