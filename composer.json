@@ -3,6 +3,7 @@
   "description": "Converte numeral em valor por extenso.",
   "keywords": ["numero", "extenso", "real", "brasil", "moeda"],
   "type": "package",
+  "version": "v2.0.0",
   "require": {
     "php": ">=5.6"
   },
