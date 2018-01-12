@@ -30,17 +30,12 @@
   $extenso_n5 = $extenso->converter($n5);
   echo $extenso_n5 ."\n\n";
 
-  $n5 = 0.21;
-  echo $n5 ."\n";
-  $extenso_n5 = $extenso->converter($n5);
-  echo $extenso_n5 ."\n\n";
+  $n6 = 0.21;
+  echo $n6 ."\n";
+  $extenso_n6 = $extenso->converter($n6);
+  echo $extenso_n6 ."\n\n";
 
-  $n5 = 0.04;
-  echo $n5 ."\n";
-  $extenso_n5 = $extenso->converter($n5);
-  echo $extenso_n5 ."\n\n";
-
-  $n5 = 0.006;
-  echo $n5 ."\n";
-  $extenso_n5 = $extenso->converter($n5);
-  echo $extenso_n5 ."\n\n";
+  $n7 = 0.04;
+  echo $n7 ."\n";
+  $extenso_n7 = $extenso->converter($n7);
+  echo $extenso_n7 ."\n\n";
