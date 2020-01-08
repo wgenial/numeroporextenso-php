@@ -1,0 +1,9 @@
+# https://docs.travis-ci.com/user/reference/bionic/#php-support
+language: php
+php:
+  - 7.1
+  - 7.2
+  - 7.3
+  - 7.4
+install: composer install
+script: phpunit --coverage-clover=coverage.clover
