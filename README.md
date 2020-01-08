@@ -93,3 +93,7 @@ https://rogertakemiya.com.br/valor-por-extenso-com-o-php/
 ## Autor
 | [<img src="https://avatars0.githubusercontent.com/u/41435?v=4&s=120"><br><sub>@giovanigenerali</sub>](https://github.com/giovanigenerali) |
 | :---: |
+
+## Contribuidore(s)
+| [<img src="https://avatars2.githubusercontent.com/u/2475726?s=120&v=4"><br><sub>@falinhares</sub>](https://github.com/falinhares) |
+| :---: |
