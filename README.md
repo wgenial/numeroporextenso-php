@@ -1,7 +1,7 @@
 # Número por extenso
 
 [![Packagist](https://img.shields.io/packagist/v/wgenial/numeroporextenso.svg)](https://packagist.org/packages/wgenial/numeroporextenso)
-[![Build Status](https://travis-ci.org/wgenial/numeroporextenso-php.svg?branch=master)](https://travis-ci.org/wgenial/numeroporextenso-php)
+[![Build Status](https://app.travis-ci.com/wgenial/numeroporextenso-php.svg?branch=master)](https://app.travis-ci.com/wgenial/numeroporextenso-php)
 [![GitHub license](https://img.shields.io/github/license/wgenial/numeroporextenso-php.svg)](https://github.com/wgenial/numeroporextenso-php/blob/master/LICENSE)
 
 Converte numeral em valor por extenso.
@@ -36,7 +36,6 @@ echo $vazio;
 // Informe um numeral.
 ```
 
-
 ```php
 include __DIR__.'/vendor/autoload.php';
 
@@ -49,20 +48,25 @@ echo $negativo;
 ```
 
 ## Exemplos:
+
 Consulte o arquivo https://github.com/wgenial/numeroporextenso-php/blob/master/example/index.php
 
 ## Referências:
+
 http://www.moedasdobrasil.com.br/moedas/reformas.asp
 https://www.professornews.com.br/component/content/article/181-utilidades/dicas-de-redacao/6872-como-escrever-valor-por-extenso.html
 https://rogertakemiya.com.br/valor-por-extenso-com-o-php/
 
 ## Afinal, o que é um número por extenso?
+
 > "Um número por extenso é a forma como um número qualquer é representado em determinada língua sem a utilização de algarismos, através de palavras ou combinação de palavras que representam os números, como por exemplo" [Wikipédia](https://pt.wikipedia.org/wiki/Número_por_extenso)
 
 ## Autor
+
 | [<img src="https://avatars0.githubusercontent.com/u/41435?v=4&s=120"><br><sub>@giovanigenerali</sub>](https://github.com/giovanigenerali) |
-| :---: |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## Contribuidor(es)
+
 | [<img src="https://avatars2.githubusercontent.com/u/2475726?s=120&v=4"><br><sub>@falinhares</sub>](https://github.com/falinhares) |
-| :---: |
+| :-------------------------------------------------------------------------------------------------------------------------------: |
