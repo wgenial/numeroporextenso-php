@@ -21,7 +21,7 @@
       $plural = array("centavos", "reais", "mil", "milhões", "bilhões", "trilhões","quatrilhões");
       $c = array("", "cem", "duzentos", "trezentos", "quatrocentos","quinhentos", "seiscentos", "setecentos", "oitocentos", "novecentos");
       $d = array("", "dez", "vinte", "trinta", "quarenta", "cinquenta","sessenta", "setenta", "oitenta", "noventa");
-      $d10 = array("dez", "onze", "doze", "treze", "quatorze", "quinze","dezesseis", "dezesete", "dezoito", "dezenove");
+      $d10 = array("dez", "onze", "doze", "treze", "quatorze", "quinze","dezesseis", "dezessete", "dezoito", "dezenove");
       $u = array("", "um", "dois", "três", "quatro", "cinco", "seis","sete", "oito", "nove");
 
       $z = 0;

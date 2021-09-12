@@ -1,9 +1,15 @@
 {
   "name": "wgenial/numeroporextenso",
   "description": "Converte numeral em valor por extenso.",
-  "keywords": ["numero", "extenso", "real", "brasil", "moeda"],
+  "keywords": [
+    "numero",
+    "extenso",
+    "real",
+    "brasil",
+    "moeda"
+  ],
   "type": "package",
-  "version": "v3.0.0",
+  "version": "v3.0.1",
   "license": "MIT",
   "support": {
     "issues": "https://github.com/wgenial/numeroporextenso/issues",
@@ -18,8 +24,8 @@
   ],
   "minimum-stability": "dev",
   "scripts": {
-		"test": "./vendor/bin/phpunit --configuration ./phpunit.xml --colors=always"
-	},
+    "test": "./vendor/bin/phpunit --configuration ./phpunit.xml --colors=always"
+  },
   "autoload": {
     "psr-4": {
       "WGenial\\NumeroPorExtenso\\": "src/"
